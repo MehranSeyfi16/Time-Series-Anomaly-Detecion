@@ -1,5 +1,5 @@
 # Time-Series-Anomaly-Detecion
-Complete Analysis To Detect Anomalies  On  a 'Time Series 'Problem
+Complete Analysis To Detect Anomalies  On  a 'Time Series' Problem. Using various methods and a high diversity in eda, using models and combinations of models.
 
 
 ##  ⚡️ Clustering Based Detection
